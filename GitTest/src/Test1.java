@@ -9,6 +9,7 @@ public class Test1 {
 		System.out.println("푸시");
 		System.out.println("test");
 		System.out.println("hyo");
+		System.out.println("배고프다");
 	}
 
 }
