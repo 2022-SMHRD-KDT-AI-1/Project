@@ -8,6 +8,7 @@ public class Test1 {
 		System.out.println("실험실험");
 		System.out.println("푸시");
 		System.out.println("test");
+		System.out.println("hyo");
 	}
 
 }
